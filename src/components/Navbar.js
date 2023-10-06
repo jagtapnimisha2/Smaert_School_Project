@@ -3,13 +3,6 @@ import "./navbar.css";
 import logo from './images/m.png';
 import logo2 from './images/c.png';
 import logo3 from './images/b.png';
-import {
-  FaFacebookSquare,
-  FaInstagramSquare,
-  FaYoutubeSquare,
-
-
-} from "react-icons/fa";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { CgProfile } from "react-icons/cg";
 import { BiSearch } from "react-icons/bi";
